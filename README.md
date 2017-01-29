@@ -1,2 +1,1 @@
-# Data-Center-Distributed-Optimal-Control
-Finished - Data Center Speed Scaling literature review
+[research.google.com](https://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients)
